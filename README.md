@@ -31,6 +31,9 @@ This project is a Gradio-based application that processes Tamil audio input to g
 - 👀 View and download results directly from the Gradio interface.
 
 
+### 🌐Feel free to explore the model - https://huggingface.co/spaces/user526/Multimodel
+
+
 
 ---
 ### 📬 Contact
